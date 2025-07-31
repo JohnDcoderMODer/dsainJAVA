@@ -1,5 +1,6 @@
+package com.example.demo;
 import java.util.Scanner;
-public class sumof2num {
+public class FindTheSmallestOfThreeNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int FirstNumber = sc.nextInt();
